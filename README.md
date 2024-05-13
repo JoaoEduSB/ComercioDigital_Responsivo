@@ -1,6 +1,6 @@
 # Comercio Digital Responsivo
 
-![image](https://github.com/JoaoEduSB/ComercioDigital_Responsivo/assets/146045770/fa7207b8-17d2-478e-ac27-09b006e0877a)
+![image](https://github.com/JoaoEduSB/ComercioDigital_Responsivo/assets/146045770/655d1394-d10f-4483-b5a1-13f2bf86c97e)
 
 - Projeto construído durante o curso PROPROFISSÃO.
 
